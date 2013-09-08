@@ -1,0 +1,8 @@
+{
+  "name": "sync",
+  "private": true,
+  "version": "0.0.1",
+  "license": "MIT",
+  "paths": [".", "lib"],
+  "local": ["boot"]
+}

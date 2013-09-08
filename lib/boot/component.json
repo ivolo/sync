@@ -1,0 +1,17 @@
+{
+  "name": "boot",
+  "dependencies": {
+    "component/classes": "*",
+    "component/event": "*",
+    "ianstormtaylor/router": "*",
+    "matthewmueller/uid": "*"
+  },
+  "local": [
+    "room",
+    "listener"
+  ],
+  "scripts": [
+    "browser.js"
+  ],
+  "main": "browser.js"
+}

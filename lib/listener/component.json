@@ -1,0 +1,13 @@
+{
+  "name": "listener",
+  "dependencies": {
+    "matthewmueller/uid": "*",
+    "segmentio/model": "*",
+    "segmentio/model-defaults": "*",
+    "segmentio/model-firebase": "*",
+    "segmentio/model-memoize": "*"
+  },
+  "scripts": [
+    "index.js"
+  ]
+}
