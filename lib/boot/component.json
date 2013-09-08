@@ -10,7 +10,8 @@
     "room",
     "listener",
     "playlist",
-    "song"
+    "song",
+    "adder"
   ],
   "scripts": [
     "browser.js"

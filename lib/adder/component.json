@@ -1,0 +1,14 @@
+{
+  "name": "adder",
+  "dependencies": {
+    "component/reactive": "*",
+    "component/dom": "*",
+    "components/domready": "*"
+  },
+  "scripts": [
+    "index.js"
+  ],
+  "templates": [
+    "form.html"
+  ]
+}
