@@ -8,7 +8,9 @@
     "segmentio/model-memoize": "*",
     "segmentio/list": "*",
     "segmentio/collection": "*",
-    "component/reactive": "*"
+    "component/reactive": "*",
+    "component/dom": "*",
+    "components/domready": "*"
   },
   "scripts": [
     "index.js"

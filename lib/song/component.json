@@ -1,12 +1,12 @@
 {
   "name": "song",
   "dependencies": {
-    "matthewmueller/uid": "*",
-    "segmentio/model": "*",
-    "segmentio/model-defaults": "*",
-    "segmentio/model-memoize": "*",
+    "component/domify": "*",
     "component/reactive": "*"
   },
+  "templates": [
+    "song.html"
+  ],
   "scripts": [
     "index.js"
   ]
