@@ -3,7 +3,7 @@
   "dependencies": {
     "matthewmueller/uid": "*",
     "segmentio/model": "*",
-    "segmentio/model-defaults": "*",
+    "treygriffith/model-defaults": "*",
     "segmentio/model-firebase": "*",
     "segmentio/model-memoize": "*",
     "segmentio/list": "*",
