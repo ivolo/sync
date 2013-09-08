@@ -8,6 +8,10 @@
     "segmentio/model-memoize": "*",
     "caolan/async": "*"
   },
+  "local": [
+    "playlist",
+    "listener"
+  ],
   "scripts": [
     "index.js"
   ]

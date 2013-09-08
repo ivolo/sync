@@ -12,7 +12,11 @@
     "component/dom": "*",
     "components/domready": "*"
   },
+  "local": [
+    "song"
+  ],
   "scripts": [
     "index.js"
-  ]
+  ],
+  "main": "index.js"
 }
