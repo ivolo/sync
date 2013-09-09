@@ -1,7 +1,9 @@
 {
   "name": "song",
   "dependencies": {
-    "component/emitter": "*",
+    "treygriffith/model-defaults": "*",
+    "matthewmueller/uid": "*",
+    "segmentio/model": "*",
     "component/domify": "*",
     "component/reactive": "*"
   },

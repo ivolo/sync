@@ -14,7 +14,8 @@
     "components/domready": "*"
   },
   "local": [
-    "song"
+    "song",
+    "songs"
   ],
   "scripts": [
     "index.js"

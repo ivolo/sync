@@ -1,0 +1,11 @@
+{
+  "name": "songs",
+  "dependencies": {
+    "segmentio/collection": "*"
+  },
+  "local": ["song"],
+  "scripts": [
+    "index.js"
+  ],
+  "main": "index.js"
+}
