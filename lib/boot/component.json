@@ -11,7 +11,8 @@
     "listener",
     "playlist",
     "song",
-    "adder"
+    "adder",
+    "player"
   ],
   "scripts": [
     "browser.js"
