@@ -5,6 +5,7 @@
     "segmentio/model": "*",
     "treygriffith/model-defaults": "*",
     "treygriffith/model-firebase": "*",
+    "treygriffith/model-setters": "*",
     "segmentio/model-memoize": "*",
     "segmentio/list": "*",
     "segmentio/collection": "*",
