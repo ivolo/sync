@@ -1,6 +1,7 @@
 {
   "name": "song",
   "dependencies": {
+    "component/emitter": "*",
     "component/domify": "*",
     "component/reactive": "*"
   },
