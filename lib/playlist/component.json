@@ -4,7 +4,7 @@
     "matthewmueller/uid": "*",
     "segmentio/model": "*",
     "treygriffith/model-defaults": "*",
-    "segmentio/model-firebase": "*",
+    "treygriffith/model-firebase": "*",
     "segmentio/model-memoize": "*",
     "segmentio/list": "*",
     "segmentio/collection": "*",
