@@ -2,6 +2,7 @@
   "name": "song",
   "dependencies": {
     "treygriffith/model-defaults": "*",
+    "treygriffith/model-setters": "*",
     "matthewmueller/uid": "*",
     "segmentio/model": "*",
     "component/domify": "*",

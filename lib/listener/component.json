@@ -3,10 +3,12 @@
   "dependencies": {
     "matthewmueller/uid": "*",
     "segmentio/model": "*",
-    "segmentio/model-defaults": "*",
-    "segmentio/model-firebase": "*",
+    "treygriffith/model-defaults": "*",
+    "treygriffith/model-firebase": "*",
+    "treygriffith/model-setters": "*",
     "segmentio/model-memoize": "*"
   },
+  "local": ["state"],
   "scripts": [
     "index.js"
   ]

@@ -1,0 +1,13 @@
+{
+  "name": "state",
+  "dependencies": {
+    "treygriffith/model-defaults": "*",
+    "segmentio/model": "*",
+    "treygriffith/model-setters": "*"
+  },
+  "local": ["song"],
+  "scripts": [
+    "index.js"
+  ],
+  "main": "index.js"
+}
