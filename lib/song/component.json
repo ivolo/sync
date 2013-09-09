@@ -5,7 +5,8 @@
     "matthewmueller/uid": "*",
     "segmentio/model": "*",
     "component/domify": "*",
-    "component/reactive": "*"
+    "component/reactive": "*",
+    "component/emitter": "*"
   },
   "templates": [
     "song.html"
