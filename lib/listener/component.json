@@ -4,11 +4,9 @@
     "matthewmueller/uid": "*",
     "segmentio/model": "*",
     "treygriffith/model-defaults": "*",
-    "treygriffith/model-firebase": "*",
-    "treygriffith/model-setters": "*",
-    "segmentio/model-memoize": "*"
+    "treygriffith/model-setters": "*"
   },
-  "local": ["state"],
+  "local": ["player"],
   "scripts": [
     "index.js"
   ]

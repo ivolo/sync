@@ -6,13 +6,15 @@
     "treygriffith/model-defaults": "*",
     "treygriffith/model-firebase": "*",
     "segmentio/model-memoize": "*",
-    "caolan/async": "*"
+    "caolan/async": "*",
+    "treygriffith/oz": "*"
   },
   "local": [
-    "playlist",
-    "listener"
   ],
   "scripts": [
     "index.js"
+  ],
+  "templates": [
+    "room.html"
   ]
 }

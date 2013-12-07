@@ -1,0 +1,15 @@
+<div>
+  <h1 oz-text="title"></h1>
+
+  <div oz-if="song">
+    Now playing: <span oz-text="song"></span>
+    <br>
+    <span oz-text="player.time"></span>
+    <span> / </span>
+    <span oz-text="player.length"></span>
+  </div>
+  
+  <form oz-evt="submit:addSong">
+    <input oz-val="newSong" type="text" placeholder="New Song"> <input type="submit" value="Add">
+  </form>
+</div>

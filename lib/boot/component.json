@@ -8,11 +8,7 @@
   },
   "local": [
     "room",
-    "listener",
-    "playlist",
-    "song",
-    "adder",
-    "player"
+    "listener"
   ],
   "scripts": [
     "browser.js"
