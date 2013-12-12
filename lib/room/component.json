@@ -10,7 +10,8 @@
     "treygriffith/oz": "*"
   },
   "local": [
-    "player"
+    "player",
+    "ntp"
   ],
   "scripts": [
     "index.js"
