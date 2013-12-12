@@ -4,7 +4,7 @@
   <div oz-if="song">
     Now playing: <span oz-text="song"></span>
     <br>
-    <div class="progress"></div>
+    <div oz-part="progress.el"></div>
   </div>
   
   <form oz-evt="submit:addSong">

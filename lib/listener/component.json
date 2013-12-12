@@ -6,7 +6,7 @@
     "treygriffith/model-defaults": "*",
     "treygriffith/model-setters": "*"
   },
-  "local": ["player"],
+  "local": [],
   "scripts": [
     "index.js"
   ]
