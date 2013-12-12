@@ -1,10 +1,7 @@
 <div>
   <h1 oz-text="title"></h1>
 
-  <div oz-if="song">
-    Now playing: <span oz-text="song"></span>
-    <br>
-    <div oz-part="progress.el"></div>
+  <div oz-part="player.view.rendered.0">
   </div>
   
   <form oz-evt="submit:addSong">

@@ -7,8 +7,7 @@
     "treygriffith/model-firebase": "*",
     "segmentio/model-memoize": "*",
     "caolan/async": "*",
-    "treygriffith/oz": "*",
-    "component/progress": "*"
+    "treygriffith/oz": "*"
   },
   "local": [
     "player"
